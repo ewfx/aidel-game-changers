@@ -19,7 +19,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+🖼️ Screenshots: 
 
 ![Screenshot 1](link-to-image)
 
