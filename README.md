@@ -1,12 +1,8 @@
 # 🚀 Project Name
-
+   AI-Driven Entity Intelligence & Risk Analysis
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 - [Team](#team)
@@ -17,24 +13,9 @@
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots: 
+📹 [Video Demo](#) - This can be found in artifacts/demo  
 
-![Screenshot 1](link-to-image)
-
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
-
-## ⚙️ What It Does
-Explain the key features and functionalities of your project.
-
-## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
-
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
-
+We have also added an explanation document in artifacts/arch that better explain the project and our solution to it. Attached along side is a Colab version of our output for references.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
@@ -42,18 +23,15 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt 
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   uvicorn main:app --reload
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Python
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
