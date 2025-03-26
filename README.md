@@ -13,7 +13,7 @@
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
 
 ## 🎥 Demo
-📹 [Video Demo](#) - This can be found in artifacts/demo  
+📹 [Video Demo](#) - https://drive.google.com/file/d/1BVMuKPtJyTnayt32MUeB33IY83O_6mr2/view?usp=share_link 
 
 We have also added an explanation document in artifacts/arch that better explain the project and our solution to it. Attached along side is a Colab version of our output for references.
 ## 🏃 How to Run
