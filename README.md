@@ -34,5 +34,5 @@ We have also added an explanation document in artifacts/arch that better explain
 - 🔹 Python
 
 ## 👥 Team
-- **Your Name** - [suryasridhar](#https://github.com/suryasridhar) | [LinkedIn](#https://www.linkedin.com/in/surya-sridhar-06938135?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Your Name** - https://github.com/suryasridhar | https://www.linkedin.com/in/surya-sridhar-06938135
 - **Teammate 2** - [GitHub](#) | [LinkedIn](#)
